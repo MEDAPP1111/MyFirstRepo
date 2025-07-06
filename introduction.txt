@@ -1,0 +1,6 @@
+Brief Introduction About Myself
+
+My name is Osama Atia. I’m currently learning Git and GitHub as part of my journey into software development and data science. I love exploring new technologies, and I enjoy working on projects that allow me to apply what I learn.
+
+This is my first time working with version control, and I’m excited to understand how collaboration works in real-world environments.
+
