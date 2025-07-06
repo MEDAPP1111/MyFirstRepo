@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+- Complete a full data analysis project using Python and SQL
+- Improve my Git and GitHub skills by contributing to open source
+- Learn advanced Excel and Power BI dashboards
+- Read at least 3 books about data science and business
+- Start freelancing and build a personal portfolio website
